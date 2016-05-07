@@ -14,7 +14,7 @@ Purpose. Motivation. Happiness.
 + [ ] Seneca: [On the shortness of life](http://www.amazon.com/Shortness-Life-Penguin-Great-Ideas/dp/0143036327/ref=sr_1_1?ie=UTF8&qid=1462545192&sr=8-1&keywords=on+the+shortness+of+life)
 
 #### 🌟Find the right job
-+ [ ] (50 ways to get a job that makes Good)[http://50waystogetajob.com/]
++ [ ] [50 ways to get a job that makes Good](http://50waystogetajob.com/)
 
 #### Extra
 🚧_more comming soon_🚧
